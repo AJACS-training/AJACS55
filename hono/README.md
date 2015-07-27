@@ -9,7 +9,7 @@
 ----
 
 これは統合データベース講習会 AJACS米子「遺伝子発現データベース・解析ツールの使い方」の講習資料です。  
-この内容の続編として、[応用・実践編](https://github.com/AJACS-training/AJACS53/blob/master/yoki/yoki.md) がありますので、こちらもあわせてご活用ください。  
+この内容の続編として、AJACS御茶ノ水(2015年5月)における[応用・実践編](https://github.com/AJACS-training/AJACS53/blob/master/yoki/) がありますので、こちらもあわせてご活用ください。  
 講習会全体のプログラムは[こちら](http://events.biosciencedbc.jp/training/ajacs55)です。  
 
 ----
@@ -32,6 +32,7 @@
 - 数十～数千の遺伝子群の生物学的解釈
     - DAVID
         - 【実習2】DAVIDを用いて、発現データの結果を生物学的に解釈する
+        - 【実習3】DAVIDを用いて、発現データの結果を生物学的に解釈する その2
 
 ----
 
@@ -244,4 +245,15 @@
 
 ---
 
-[答え合わせ](https://github.com/AJACS-training/AJACS53/blob/master/hono/answer.md)
+[答え合わせ](https://github.com/AJACS-training/AJACS55/blob/master/hono/answer.md)
+
+####【実習2】DAVIDを用いて、発現データの結果を生物学的に解釈する その2
+- DAVID の使い方に慣れてきたところで、実戦的な生物学的解釈に挑戦してみましょう。
+- 今回は「正解」はありません。情報分析力と想像力が問われます。
+- 例題は、[GSE28619](http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE28619)
+  - 健常者 vs アルコール性肝炎患者 の2群比較です。
+  - 多重比較法（Benjamini & Hochberg）を指定して、有意水準1％未満かつ2倍以上発現差のあった遺伝子群のリストをあらかじめ用意しました。
+     - 「健常者＞AH患者_遺伝子リスト」[GEO2R_Ctrl.txt](https://raw.githubusercontent.com/AJACS-training/AJACS55/master/hono/GEO2R_Ctrl.txt)
+     - 「AH患者＞健常者_遺伝子リスト」[GEO2R_AH.txt](https://raw.githubusercontent.com/AJACS-training/AJACS55/master/hono/GEO2R_AH.txt) 
+  - (この遺伝子リストの作り方は、[AJACS御茶ノ水の回](https://github.com/AJACS-training/AJACS53/blob/master/yoki/) で解説しています。)
+  - このデータを使った論文([Transcriptome analysis identifies TNF superfamily receptors as potential therapeutic targets in alcoholic hepatitis.](http://www.ncbi.nlm.nih.gov/pubmed/22637703))も出ていますが、答え合わせをするもよし、著者らが見逃している着眼点を見出すもよし、です。
