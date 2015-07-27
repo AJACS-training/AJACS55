@@ -19,23 +19,23 @@
 
 ### プログラム 
 #### 8月4日(火)
-9:30～10:45 「[NBDCの紹介とNBDCが提供するサービス](https://github.com/AJACS-training/AJACS55/blob/master/minowa/)」
-箕輪 真理
+9:30～10:45 「[NBDCの紹介とNBDCが提供するサービス](https://github.com/AJACS-training/AJACS55/blob/master/minowa/)」  
+箕輪 真理  
 (科学技術振興機構バイオサイエンスデータベースセンター
  / 情報・システム研究機構 ライフサイエンス統合データベースセンター)
 
-11:00～12:30 「[次世代シークエンサーを用いたがん細胞のオミクス解析](https://github.com/AJACS-training/AJACS55/blob/master/suzuki/)」
-鈴木 絢子
-(国立がん研究センター先端医療開発センター)
+11:00～12:30 「[次世代シークエンサーを用いたがん細胞のオミクス解析](https://github.com/AJACS-training/AJACS55/blob/master/suzuki/)」  
+鈴木 絢子  
+(国立がん研究センター先端医療開発センター)  
 
-13:30～14:30 「[遺伝子発現データベース・解析ツールの使い方](https://github.com/AJACS-training/AJACS55/blob/master/hono/)」前編
-小野 浩雅
-(情報・システム研究機構 ライフサイエンス統合データベースセンター)
+13:30～14:30 「[遺伝子発現データベース・解析ツールの使い方](https://github.com/AJACS-training/AJACS55/blob/master/hono/)」前編  
+小野 浩雅  
+(情報・システム研究機構 ライフサイエンス統合データベースセンター)  
 
-14:45～15:45  「[遺伝子発現データベース・解析ツールの使い方](https://github.com/AJACS-training/AJACS55/blob/master/hono/)」後編
-小野 浩雅
-(情報・システム研究機構 ライフサイエンス統合データベースセンター)
+14:45～15:45  「[遺伝子発現データベース・解析ツールの使い方](https://github.com/AJACS-training/AJACS55/blob/master/hono/)」後編  
+小野 浩雅  
+(情報・システム研究機構 ライフサイエンス統合データベースセンター)  
 
-16:00～17:30  「[パスウェイデータベースの紹介](https://github.com/AJACS-training/AJACS55/blob/master/tktym/)」
-片山 俊明
-(情報・システム研究機構ライフサイエンス統合データベースセンター) 
+16:00～17:30  「[パスウェイデータベースの紹介](https://github.com/AJACS-training/AJACS55/blob/master/tktym/)」  
+片山 俊明  
+(情報・システム研究機構ライフサイエンス統合データベースセンター)   
